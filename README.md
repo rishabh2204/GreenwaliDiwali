@@ -1,9 +1,9 @@
 # GreenwaliDiwali
-Lets spread the message of a green Diwali by making it a social phenomenon.
+Lets spread the message of a Green Diwali by making it a social phenomenon.
 
 Hi, Thanks a lot for the interest in the project. This is an attempt to turn the best festival of India, Diwali into a green initiative socially. The code runs happily on Raspberry Pi, BBB (with some changes-TODO) and Intel Edison (with some more changes-TODO).
 
-We all know why firecrackers are bad. They pollute and make the earth the place we would not like to be for the coming generations.
+We all know why firecrackers are bad. They pollute air quality and make our earth environment contaminate that we would not like to be for the coming generations.
 
 This project aims at creating awareness but pleading to all makers who have a Pi/BBB/Edison to install one at their homes and whenever somebody tweets with the hastag #Diwali, it will catch the tweet and check if it contains the word green, and they virtually sound fireworks and flicker a LED attached to Pin 22. 
 
